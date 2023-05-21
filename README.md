@@ -145,4 +145,5 @@ Feedstock Maintainers
 
 * [@fjosw](https://github.com/fjosw/)
 * [@pavelzw](https://github.com/pavelzw/)
+* [@s-kuberski](https://github.com/s-kuberski/)
 
