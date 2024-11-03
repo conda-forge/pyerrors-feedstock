@@ -1,5 +1,5 @@
 {% set name = "pyerrors" %}
-{% set version = "2.12.0" %}
+{% set version = "2.13.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pyerrors-{{ version }}.tar.gz
-  sha256: ca2878e00d8d771280a1f58da362413df45717346b5a2068651a29120d2e2b99
+  sha256: a058a7ddc7ee9e1a5efbb88b8ac3c317290d7138d0f08f78273ee882e842faf1
 
 build:
   noarch: python
